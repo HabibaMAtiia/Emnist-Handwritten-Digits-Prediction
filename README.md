@@ -61,7 +61,6 @@ The final model is a **Sequential Neural Network** with the following layers:
 Training and Validation Accuracy plots were generated during training.  
 *(Notebook contains visualization plots.)*
 
----
 
 ## 🚀 How to Run
 ### Prerequisites
